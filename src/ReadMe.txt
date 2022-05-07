@@ -1,1 +1,0 @@
-Simple Redis stream using Docker. Learned about streams, async, and and redis.
